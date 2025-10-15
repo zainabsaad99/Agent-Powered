@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ```
 ### Running in Hugging Face
 
-https://huggingface.co/spaces/zainabsaad/Agent-Powered/settings
+https://huggingface.co/spaces/zainabsaad/Agent-Powered
 
 ### 🧩 Example Conversation
 
