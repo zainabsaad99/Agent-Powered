@@ -1,0 +1,31 @@
+AUB Compass Tutoring Service - Summary
+
+Mission
+-------
+Empower AUB students with personalized course recommendations and tutoring support to make confident academic decisions and excel in their studies.
+
+What We Offer
+-------------
+- AI Course Advisor - answers questions about AUB courses, majors, electives, and prerequisites.
+- Study Planner - helps organize semester schedules and balance workloads.
+- Skill Path Finder - recommends electives and minors for goals like data science, writing, or communication.
+- Tutoring Resource Hub - provides study tips and subject guidance.
+- Feedback Tracker - records common questions to improve service quality.
+
+Team
+----
+- Academic Director - Dr. Layla Haddad: Oversees tutoring quality and curriculum alignment.
+- Technical Lead - Rami Choueiri: Responsible for the AUB Compass AI platform and integrations.
+- Student Success Lead - Nour Mansour: Coordinates tutoring sessions and student onboarding.
+
+Value Proposition
+-----------------
+- Combines academic expertise with intelligent guidance for fast, accurate advice.
+- Encourages students to verify choices with official AUB advisors before registration.
+- Provides consistent, supportive, and ethical tutoring help.
+
+Contact
+-------
+support@aubcompass.example (fictional)
+
+(For academic use - fictional tutoring service identity.)
